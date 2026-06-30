@@ -82,8 +82,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/cervical-cancer-classification.git
-cd cervical-cancer-classification
+git clone https://github.com/LinJJ12/herlev-cervical-cancer-7-class.git
+cd herlev-cervical-cancer-7-class
 ```
 
 ### 2. 安装依赖
